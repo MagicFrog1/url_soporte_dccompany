@@ -27,3 +27,11 @@ Verifica que la app tiene permiso para usar iCloud en los ajustes de tu iPhone/i
 Términos y Condiciones: Puedes consultarlos directamente dentro del menú de Ajustes de la aplicación.
 
 Reportar un error: También puedes abrir un "Issue" en este repositorio de GitHub si eres un usuario avanzado.
+
+
+Facial Data Privacy (Uso de Datos Faciales): Our application uses the device's camera to perform facial symmetry and skin analysis through specialized AI algorithms.
+
+Collection: We only collect facial landmarks and image patterns required for the analysis. We DO NOT collect biometric identifiers for user identification.
+Usage: These data are used exclusively to provide the "Glowup" score and personalized skincare protocols.
+Sharing: We do not share facial data with third-party marketers or data brokers. Data processed by third-party AI services is handled securely and is NOT stored permanently on their servers.
+Retention: Facial images and data are processed in real-time and are not stored permanently. They are deleted immediately after the analysis report is generated.
