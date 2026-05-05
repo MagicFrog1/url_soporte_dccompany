@@ -28,10 +28,10 @@ Términos y Condiciones: Puedes consultarlos directamente dentro del menú de Aj
 
 Reportar un error: También puedes abrir un "Issue" en este repositorio de GitHub si eres un usuario avanzado.
 
+Face Data Collection and Usage
+Our application collects facial images (Face Data) provided by the user either via the device's camera or photo library.
 
-Facial Data Privacy (Uso de Datos Faciales): Our application uses the device's camera to perform facial symmetry and skin analysis through specialized AI algorithms.
+Use of Data: The collected Face Data is used exclusively for the purpose of providing the core functionality of the app, which is to analyze facial topology, symmetry, and structure to generate a personalized aesthetic report and customized daily routines. Data Sharing: We do not share your Face Data with any third parties, advertisers, or external analytics providers. Data Retention: Face Data is processed via a secure, encrypted connection to our backend AI engine. The data is held in temporary memory solely for the duration of the analysis. Once the analysis is complete (typically within seconds), the Face Data is immediately and permanently deleted from our servers. We do not store, retain, or back up your Face Data.
 
-Collection: We only collect facial landmarks and image patterns required for the analysis. We DO NOT collect biometric identifiers for user identification.
-Usage: These data are used exclusively to provide the "Glowup" score and personalized skincare protocols.
-Sharing: We do not share facial data with third-party marketers or data brokers. Data processed by third-party AI services is handled securely and is NOT stored permanently on their servers.
-Retention: Facial images and data are processed in real-time and are not stored permanently. They are deleted immediately after the analysis report is generated.
+
+
